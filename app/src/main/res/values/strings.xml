@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoCaption</string>
+    <string name="button_upload_video">Upload Video</string>
+    <string name="button_generate_captions">Generate Captions</string>
+    <string name="button_export">Export</string>
+    <string name="button_play">Play</string>
+    <string name="button_pause">Pause</string>
+    <string name="button_add_text">+ Add Text</string>
+    <string name="error_no_video">Please upload a video first</string>
+    <string name="error_no_captions">Please generate captions first</string>
+    <string name="status_generating">Generating captions...</string>
+    <string name="status_exporting">Exporting video...</string>
+    <string name="status_success">Saved to gallery</string>
+</resources>
