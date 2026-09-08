@@ -1,0 +1,36 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.aab
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android
+*.class
+*.dex
+bin/
+gen/
+local.properties
+
+# Build artifacts
+*.jar
+*.aar
+
+# Whisper model (large)
+/app/src/main/assets/whisper-model/
+
+# Temp files
+*.tmp
